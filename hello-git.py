@@ -1,1 +1,1 @@
-print("Hnewello Git");
+print("Hello GitHub");
