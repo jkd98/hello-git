@@ -4,8 +4,8 @@ name: workflow
 
 # evento
 on:
-  workflow_dispatch:
-
+#  workflow_dispatch:
+  push:
 # trabajos
 jobs:
   trabajo1:
